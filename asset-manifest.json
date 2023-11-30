@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/formik-form/static/js/main.b9dc33df.chunk.js",
+    "main.js.map": "/formik-form/static/js/main.b9dc33df.chunk.js.map",
+    "runtime-main.js": "/formik-form/static/js/runtime-main.e1f02608.js",
+    "runtime-main.js.map": "/formik-form/static/js/runtime-main.e1f02608.js.map",
+    "static/js/2.f14cf87c.chunk.js": "/formik-form/static/js/2.f14cf87c.chunk.js",
+    "static/js/2.f14cf87c.chunk.js.map": "/formik-form/static/js/2.f14cf87c.chunk.js.map",
+    "index.html": "/formik-form/index.html",
+    "static/js/2.f14cf87c.chunk.js.LICENSE.txt": "/formik-form/static/js/2.f14cf87c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1f02608.js",
+    "static/js/2.f14cf87c.chunk.js",
+    "static/js/main.b9dc33df.chunk.js"
+  ]
+}
